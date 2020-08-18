@@ -3,8 +3,8 @@ Xray Image Classifier in collaboration with Chulalongkorn University Computation
 
 Research question: Do multiview(frontal and lateral) x-ray images help classifiers learn?
 
-Dataset: MIMIC-CXR (https://physionet.org/content/mimic-cxr/2.0.0/)
-
+Dataset: MIMIC-CXR (https://physionet.org/content/mimic-cxr/2.0.0/), Chest14 (https://nihcc.app.box.com/v/ChestXray-NIHCC)
+          
 This repository includes:
   - Implementation of AG-CNN (https://arxiv.org/abs/1801.09927)
   - Implementation of OGR training method (https://arxiv.org/abs/1905.12681)
